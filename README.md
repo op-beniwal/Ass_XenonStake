@@ -1,4 +1,15 @@
 # Ass_XwnonStake
-login, sign in page and TO-DO site with Django
+login, sign in page and TO-DO site with Django                           
+                                
+                            
+                           
+                           this is layout of site
 
-![alt text]([http://url/to/sing.png](https://github.com/op-beniwal/Ass_XwnonStake/blob/main/search.png)
+![search img](https://github.com/op-beniwal/Ass_XwnonStake/blob/main/search.png)                                                              
+![add_note img](https://github.com/op-beniwal/Ass_XwnonStake/blob/main/add_note.png)                                                    
+![login img](https://github.com/op-beniwal/Ass_XwnonStake/blob/main/login.png)                                                  
+![sign img](https://github.com/op-beniwal/Ass_XwnonStake/blob/main/sing.png)                                                      
+
+
+
+
