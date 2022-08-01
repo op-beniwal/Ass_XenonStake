@@ -3,7 +3,7 @@ login, sign in page and TO-DO site with Django
                                 
                             
                            
-# this is layout of site
+# This is layout of site
 
 ![ER img](https://github.com/op-beniwal/Ass_XwnonStake/blob/main/ER- Flowchart.png)  
 
